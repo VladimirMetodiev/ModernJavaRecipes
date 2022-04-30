@@ -1,0 +1,100 @@
+parameter
+signature
+stack
+stack overflow
+overload
+heap
+default initial value
+breakpoint
+remainder
+code snippet
+outer
+inner
+redundant
+staging area
+version control
+system for version control
+quality assurance
+primitive data types
+built-in types
+value types
+reference types
+escaping sequences
+escaping character
+explicit
+implicit
+assign
+encrypt
+encryption
+Hypertext Transfer Protocol
+Garbage collector
+word in computing
+most significant bit
+least significant bit
+precision
+hibernation
+enterprise resource planning
+plug and play
+Unified Modeling Language
+Object-oriented programming
+Structured programming
+buffer
+property
+object
+instance
+private
+protected
+class declaration
+class body
+data members
+static member
+class field
+class method
+constructor
+implicit constructor
+default constructor
+constructor with parameters
+getter
+setter
+abstraction
+encapsulation
+polymorphism
+single inheritance
+multiple inheritance
+base class
+super class
+parent class
+override
+subclass
+extended class
+child class
+notation
+Class diagram
+Component diagram
+Activity diagram
+Use case diagram
+generalization
+association
+aggregation
+composition
+storage device
+information hiding
+iterate
+stack trace
+throw
+throwing
+catching
+try
+catch
+finally
+inner exception
+system exceptions
+regular expression
+underscore
+path
+execution
+protocol
+forbidden
+cohesion
+strong cohesion
+weak cohesion
